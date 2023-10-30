@@ -1,0 +1,9 @@
+fuzzywuzzy
+paddlepaddle
+paddleocr
+PyMuPDF
+opencv-python
+uvicorn
+pyyaml
+fastapi
+python-multipart
